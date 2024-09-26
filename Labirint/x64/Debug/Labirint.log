@@ -1,0 +1,3 @@
+﻿  Labirint.cpp
+C:\Users\ZBook\Desktop\Новая папка (4)\Labirint\Labirint.cpp(21,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Labirint.vcxproj -> C:\Users\ZBook\Desktop\Новая папка (4)\Labirint\x64\Debug\Labirint.exe
